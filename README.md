@@ -1,9 +1,9 @@
 <div>
-<div style="float-left;width:400px>
+<div style="float-left;>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<div style="float-right;width:400px>
+<div style="float-right;>
 ### Hi there 👋 I am UDIT GURANI.
 
 
