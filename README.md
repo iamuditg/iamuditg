@@ -58,11 +58,15 @@ Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=f
 </div>
 
 My Github Stats - 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamuditg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=iamuditg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamuditg&layout=compact&theme=vision-friendly-dark)]
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+</div>
+<div>
+<a><img src="https://wakatime.com/share/@iamuditg/ea04091e-3b20-4ef8-a26c-8541fd80c2a7.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@iamuditg/4922ca26-194b-49d0-8beb-87475f036adf.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@iamuditg/58aba2c8-03d1-4199-9ba9-31bc3248196a.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@iamuditg/aa2dff2b-d2d2-4bf1-b7a1-e23408728d8b.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@iamuditg/0d98146e-5dab-4339-81bd-f3d42981fd78.png" /></a>
+</div>
