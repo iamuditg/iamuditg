@@ -1,7 +1,9 @@
-<div align="center">
+<div>
+<div float="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div float="right">
 ### Hi there 👋 I am UDIT GURANI.
 
 
@@ -22,6 +24,8 @@
 - 🌱 I’m currently learning data structure and algorithm.
 - 💬 Ask me about web application, blockchain, mobile application.
 - 📫 How to reach me: gurani.udit3@gmail.com
+  </div>
+</div>
 
 Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=flat-square&color=blue" alt=""/>
 
