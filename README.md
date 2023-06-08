@@ -63,5 +63,6 @@ My Github Stats -
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamuditg&layout=compact&theme=vision-friendly-dark)]
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamuditg)]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
