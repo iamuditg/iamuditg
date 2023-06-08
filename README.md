@@ -4,22 +4,8 @@
 </div>
 
   ### Hi there 👋 I am <h1> UDIT GURANI </h1>
-
   
-  <p>  5+ ʏᴇᴀʀ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴅᴇꜱɪɢɴ ᴘᴀᴛᴛᴇʀɴ, ꜱᴏꜰᴛᴡᴀʀᴇ ᴀɴᴀʟʏꜱɪꜱ, ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ɪᴍᴘʟᴇᴍᴇɴᴛᴀᴛɪᴏɴ ᴀɴᴅ ᴛᴇꜱᴛɪɴɢ ᴏꜰ ᴍᴏʙɪʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴀɴᴅ ᴡᴇʙ ʙᴀꜱᴇᴅ ᴇɴᴛᴇʀᴘʀɪꜱᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ.  </p> 
-  <p> 
-[ ꜱᴋɪʟʟꜱ ]
- • ɢᴏʟᴀɴɢ, ʀᴜꜱᴛ, ᴄᴏʀᴇ ᴊᴀᴠᴀ
- • ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ʀᴇᴀᴄᴛ
- • ᴀɴᴅʀᴏɪᴅ
- • ᴀᴡꜱ
- • ᴍʏꜱQʟ, ᴘᴏꜱᴛɢʀᴇꜱQʟ
- • ʟɪɴᴜx, ꜱʜᴇʟʟ ꜱᴄʀɪᴘᴛɪɴɢ
- • ᴅᴏᴄᴋᴇʀ, ᴋᴜʙᴇʀɴᴇᴛᴇꜱ
- • ᴍɪᴄʀᴏ ꜱᴇʀᴠɪᴄᴇꜱ
-  </p>
-
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/%F0%9D%97%A8%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%A7-%F0%9D%97%9A%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%9C-421b96125/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -30,6 +16,14 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+  <p style='color:red'>  5+ ʏᴇᴀʀ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴅᴇꜱɪɢɴ ᴘᴀᴛᴛᴇʀɴ, ꜱᴏꜰᴛᴡᴀʀᴇ ᴀɴᴀʟʏꜱɪꜱ, ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ɪᴍᴘʟᴇᴍᴇɴᴛᴀᴛɪᴏɴ ᴀɴᴅ ᴛᴇꜱᴛɪɴɢ ᴏꜰ ᴍᴏʙɪʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴀɴᴅ ᴡᴇʙ ʙᴀꜱᴇᴅ ᴇɴᴛᴇʀᴘʀɪꜱᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ.  </p> 
+ 
+[ ꜱᴋɪʟʟꜱ ]
+    ![](https://img.shields.io/static/v1?label=&message=ɢᴏʟᴀɴɢ&color=green) ,  ![](https://img.shields.io/static/v1?label=&message=ʀᴜꜱᴛ&color=red) ,  ![](https://img.shields.io/static/v1?label=&message=ᴄᴏʀᴇᴊᴀᴠᴀ&color=yellow) ,  ![](https://img.shields.io/static/v1?label=&message=ʀᴇᴀᴄᴛ&color=pink) , ![](https://img.shields.io/static/v1?label=&message=ᴀɴᴅʀᴏɪᴅ&color=blue) , ![](https://img.shields.io/static/v1?label=&message=ᴀᴡꜱ&color=purple) , ![](https://img.shields.io/static/v1?label=&message=ᴘᴏꜱᴛɢʀᴇꜱQʟ&color=black) , ![](https://img.shields.io/static/v1?label=&message=ᴅᴏᴄᴋᴇʀ&color=brown) , ![](https://img.shields.io/static/v1?label=&message=ᴋᴜʙᴇʀɴᴇᴛᴇꜱ&color=orange) , ![](https://img.shields.io/static/v1?label=&message=ᴍɪᴄʀᴏꜱᴇʀᴠɪᴄᴇꜱ&color=green)
+
+
 
 
 - 🔭 I’m currently working on something cool.
