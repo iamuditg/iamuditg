@@ -19,7 +19,7 @@
 - 💬 Ask me about web application, blockchain, mobile application.
 - 📫 How to reach me: gurani.udit3@gmail.com
 
-Glad to see here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=flat-square&color=blue" alt=""/>
 
 My Github Stats - 
 
