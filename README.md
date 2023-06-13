@@ -65,7 +65,10 @@ My Github Stats -
 </div>
 
 
-## Wakatime Statistics
+<!-- ## Wakatime Statistics
 
 <img align="left" height="280em" src="https://wakatime.com/share/@iamuditg/3d33850e-c9b4-4509-bd9d-bda29825bf56.png"/>
-<img align="right" height="280em" src="https://wakatime.com/share/@iamuditg/9d1cd5aa-8ca7-4035-a5b5-6417a4c857c9.png"/>
+<img align="right" height="280em" src="https://wakatime.com/share/@iamuditg/9d1cd5aa-8ca7-4035-a5b5-6417a4c857c9.png"/> -->
+
+!--START_SECTION:waka
+!--END_SECTION:waka
