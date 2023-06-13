@@ -71,4 +71,21 @@ My Github Stats -
 <img align="right" height="280em" src="https://wakatime.com/share/@iamuditg/9d1cd5aa-8ca7-4035-a5b5-6417a4c857c9.png"/> -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 June 2023 - To: 12 June 2023
+
+Total Time: 8 hrs 52 mins
+
+Rust             3 hrs 25 mins   >>>>>>>>>>---------------   38.61 %
+Go               2 hrs 55 mins   >>>>>>>>-----------------   32.87 %
+Docker           1 hr 38 mins    >>>>>--------------------   18.56 %
+YAML             28 mins         >------------------------   05.39 %
+Markdown         16 mins         >------------------------   03.13 %
+GitIgnore file   4 mins          -------------------------   00.91 %
+SQL              2 mins          -------------------------   00.53 %
+Makefile         0 secs          -------------------------   00.01 %
+Python           0 secs          -------------------------   00.00 %
+```
+
 <!--END_SECTION:waka-->
