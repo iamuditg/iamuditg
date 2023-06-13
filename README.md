@@ -37,10 +37,6 @@ Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=f
 
 ---
 
-My Github Stats - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamuditg&layout=compact&theme=vision-friendly-dark)]
-
-
 <!-- ## Wakatime Statistics
 
 <img align="left" height="280em" src="https://wakatime.com/share/@iamuditg/3d33850e-c9b4-4509-bd9d-bda29825bf56.png"/>
