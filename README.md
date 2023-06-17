@@ -1,6 +1,6 @@
 <div>
 <div>
-  <img src="./fotor-ai-2023061792546.jpg"  align="right" width="400" height="400"/>
+  <img src="./fotor-ai-2023061792546-removebg-preview.png"  align="right" width="400" height="400"/>
 </div>
 
   ### Hi there 👋 I am <h1> UDIT GURANI </h1>
