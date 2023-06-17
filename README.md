@@ -1,5 +1,5 @@
 <div>
-<div  style="animation: your-animation 2s infinite;">
+<div  style="animation: your-animation 10s infinite;">
   <img src="./fotor-ai-2023061792546-removebg-preview.png"  align="right" width="400" height="400"/>
 </div>
 
@@ -75,3 +75,20 @@ Python           0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
+
+
+---
+
+<style>
+    @keyframes bounce {
+        0% {
+            transform: scale(1);
+        }
+        50% {
+            transform: scale(1.2);
+        }
+        100% {
+            transform: scale(1);
+        }
+    }
+</style>
