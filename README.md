@@ -26,10 +26,23 @@
 
 
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning data structure and algorithm.
-- 💬 Ask me about web application, blockchain, mobile application.
-- 📫 How to reach me: gurani.udit3@gmail.com
+👋 Senior software engineer proficient in Go (Golang) and Rust.
+
+🚀 Passionate about building scalable and efficient applications.
+
+🌱 Constantly learning and exploring new technologies and tools.
+
+📚 Strong problem-solving and analytical skills.
+
+💡 Committed to writing clean and maintainable code.
+
+💼 Experience in developing high-performance systems.
+
+🌟 Enthusiastic about collaborating with cross-functional teams.
+
+📫 Let's connect and create innovative software solutions!
+
+✨ Open to exciting projects and collaborations.
 
 </div>
 
