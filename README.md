@@ -1,5 +1,5 @@
 <div>
-<div  style="animation: your-animation 10s infinite;">
+<div  style="animation: your-animation 20s infinite;">
   <img src="./fotor-ai-2023061792546-removebg-preview.png"  align="right" width="400" height="400"/>
 </div>
 
