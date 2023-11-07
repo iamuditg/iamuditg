@@ -58,12 +58,12 @@ Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 04 November 2023
+From: 07 June 2023 - To: 05 November 2023
 
-Total Time: 56 hrs 30 mins
+Total Time: 56 hrs 31 mins
 
-Go               36 hrs 42 mins  >>>>>>>>>>>>>>>>---------   64.96 %
-Rust             9 hrs 21 mins   >>>>---------------------   16.57 %
+Go               36 hrs 44 mins  >>>>>>>>>>>>>>>>---------   64.98 %
+Rust             9 hrs 21 mins   >>>>---------------------   16.56 %
 Markdown         6 hrs 5 mins    >>>----------------------   10.79 %
 Docker           1 hr 54 mins    >------------------------   03.38 %
 YAML             46 mins         -------------------------   01.37 %
