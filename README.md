@@ -58,7 +58,7 @@ Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 14 November 2023
+From: 07 June 2023 - To: 15 November 2023
 
 Total Time: 56 hrs 43 mins
 
