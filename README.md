@@ -58,18 +58,18 @@ Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 16 February 2024
+From: 07 June 2023 - To: 17 February 2024
 
-Total Time: 56 hrs 50 mins
+Total Time: 57 hrs 18 mins
 
-Go               36 hrs 56 mins  >>>>>>>>>>>>>>>>---------   64.99 %
-Rust             9 hrs 21 mins   >>>>---------------------   16.47 %
-Markdown         6 hrs 6 mins    >>>----------------------   10.73 %
-Docker           1 hr 54 mins    >------------------------   03.36 %
-YAML             51 mins         -------------------------   01.52 %
-Makefile         38 mins         -------------------------   01.14 %
-SQL              23 mins         -------------------------   00.68 %
-GitIgnore file   16 mins         -------------------------   00.49 %
+Go               36 hrs 56 mins  >>>>>>>>>>>>>>>>---------   64.47 %
+Rust             9 hrs 21 mins   >>>>---------------------   16.34 %
+Markdown         6 hrs 21 mins   >>>----------------------   11.11 %
+Docker           1 hr 54 mins    >------------------------   03.33 %
+YAML             1 hr            -------------------------   01.76 %
+Makefile         38 mins         -------------------------   01.13 %
+SQL              23 mins         -------------------------   00.67 %
+GitIgnore file   19 mins         -------------------------   00.57 %
 go.mod           12 mins         -------------------------   00.36 %
 CSS              3 mins          -------------------------   00.11 %
 Assembly         2 mins          -------------------------   00.07 %
