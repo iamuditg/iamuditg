@@ -58,22 +58,22 @@ Glad to see here! <img src="https://komarev.com/ghpvc/?username=iamuditg&style=f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 16 September 2024
+From: 07 June 2023 - To: 17 September 2024
 
-Total Time: 58 hrs 32 mins
+Total Time: 60 hrs 3 mins
 
-Go                37 hrs 43 mins  >>>>>>>>>>>>>>>>---------   64.43 %
-Rust              9 hrs 21 mins   >>>>---------------------   15.99 %
-Markdown          6 hrs 31 mins   >>>----------------------   11.13 %
-Docker            2 hrs 11 mins   >------------------------   03.73 %
-YAML              1 hr            -------------------------   01.73 %
-Makefile          38 mins         -------------------------   01.10 %
-SQL               23 mins         -------------------------   00.66 %
-GitIgnore file    19 mins         -------------------------   00.56 %
-go.mod            12 mins         -------------------------   00.35 %
-CSS               3 mins          -------------------------   00.11 %
+Go                39 hrs 13 mins  >>>>>>>>>>>>>>>>---------   65.32 %
+Rust              9 hrs 21 mins   >>>>---------------------   15.59 %
+Markdown          6 hrs 31 mins   >>>----------------------   10.85 %
+Docker            2 hrs 11 mins   >------------------------   03.64 %
+YAML              1 hr            -------------------------   01.68 %
+Makefile          38 mins         -------------------------   01.08 %
+SQL               23 mins         -------------------------   00.64 %
+GitIgnore file    19 mins         -------------------------   00.54 %
+go.mod            12 mins         -------------------------   00.34 %
+CSS               3 mins          -------------------------   00.10 %
 Assembly          2 mins          -------------------------   00.07 %
-.env file         2 mins          -------------------------   00.07 %
+.env file         2 mins          -------------------------   00.06 %
 Protocol Buffer   1 min           -------------------------   00.05 %
 Other             0 secs          -------------------------   00.01 %
 Text              0 secs          -------------------------   00.01 %
